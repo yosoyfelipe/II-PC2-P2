@@ -1,17 +1,17 @@
-Nombres:
-Apellidos:
-Tipo documento:
-Número documento:
-Correo FET:
-Código FET:
+Nombres:Juan Felipe	
+Apellidos: Niño Villarreal
+Tipo documento: cedula
+Número documento: 1075307785
+Correo FET: juan_ninovi@fet.edu.co
+Código FET: SOFT120181014
 
 Responda las siguientes preguntas:
 
 a) ¿Para qué sirve el comando Git Commit?
-R:
+R: Guardar cambios en el repositorio
 
 b) ¿Para qué sirve el comando Pull Request?
-R:
+R: es la acción de validar un código que se va a mergear de una rama a otra.
 
 c) ¿Cuál es el objetivo principal de utilizar Git y Github?
-R:
+R: poder desarrollar X cosa con un grupo de personas desde cualquier lado del mundo
