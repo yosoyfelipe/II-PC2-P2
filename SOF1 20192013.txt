@@ -1,0 +1,17 @@
+Nombres:jennifer Andrea
+Apellidos:Pimiento Rojas
+Tipo documento:c.c
+Número documento:1075241740
+Correo FET:jennifer_pimientoro@fet.edu.co
+Código FET:SOF120192013
+
+Responda las siguientes preguntas:
+
+a) ¿Para qué sirve el comando Git Commit?
+R: para añadir el txt
+
+b) ¿Para qué sirve el comando Pull Request?
+R:es el que aporta un codigo para un proyecto
+
+c) ¿Cuál es el objetivo principal de utilizar Git y Github?
+R: para subir proyectos y colaborar con otros
