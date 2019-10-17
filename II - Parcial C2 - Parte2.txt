@@ -1,17 +1,18 @@
-Nombres:
-Apellidos:
-Tipo documento:
-Número documento:
-Correo FET:
-Código FET:
+Nombres:LUIS EDUARDO
+Apellidos:GAVIRIA PIAMBA
+Tipo documento:C.C
+Número documento:1075285686
+Correo FET:luis_gaviriapi@fet.edu.co
+Código FET:SOF120192019
 
 Responda las siguientes preguntas:
 
 a) ¿Para qué sirve el comando Git Commit?
-R:
+R:PARA GUARDAR LOS CAMBIOS HECHOS EN EL REPSOTIROIO LOCAL
 
 b) ¿Para qué sirve el comando Pull Request?
-R:
+R:PARA UNIR A LA RAMA PRINCIPAL
 
 c) ¿Cuál es el objetivo principal de utilizar Git y Github?
-R:
+R:ES UN SOFTWARE DE CONTROL DE VERSIONES
+PARA DESARROLLADORES SIRVE PARA EDIATR GUARDAR HACER UN ANALISIS DE SU PROYECTO O CODIGO FUENTE
